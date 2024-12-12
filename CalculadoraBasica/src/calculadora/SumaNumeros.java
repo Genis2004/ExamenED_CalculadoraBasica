@@ -3,8 +3,19 @@ package calculadora;
 import java.util.Scanner;
 
 
+/**
+ * Este programa solicita al usuario que ingrese dos numeros y muestra su suma
+ * 
+ * @version 1.0
+ * @author Genis Rodriguez
+ */
 public class SumaNumeros {
 	
+	
+	 /**
+     * Método principal que ejecuta el programa
+     * 
+     */
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
